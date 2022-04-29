@@ -4,7 +4,7 @@
 
 My Personal CV Site
 
-**See Mobile site**
+**Deployed Mobile site**
 
 _Scan image below to go to site_
 
