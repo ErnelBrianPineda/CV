@@ -1,5 +1,9 @@
 # CV
 
+**About**
+
+My Personal CV Site
+
 **See Mobile site**
 
 _Scan image below to go to site_
@@ -9,7 +13,7 @@ Notes:
 - Currently only supports mobile light
 - Will have future updates to fully support desktop browsers
 - Made with React Typescript
-- Source Code is private and stored in ADO Repository
+- Source Code is private and stored in ADO Repository, Github only contains built production code
 - Deployed via ADO CI/CD pipelines
 
 https://ernelbrianpineda.github.io/CV/
